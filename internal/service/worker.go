@@ -7,8 +7,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/whiterage/14-11-2025/pkg/clock"
-	"github.com/whiterage/14-11-2025/pkg/models"
+	"github.com/whiterage/link-checker-service/pkg/clock"
+	"github.com/whiterage/link-checker-service/pkg/models"
 )
 
 type WorkerPool struct {

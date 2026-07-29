@@ -7,10 +7,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/whiterage/14-11-2025/internal/repository"
-	"github.com/whiterage/14-11-2025/pkg/clock"
-	"github.com/whiterage/14-11-2025/pkg/models"
-	"github.com/whiterage/14-11-2025/pkg/pdf"
+	"github.com/whiterage/link-checker-service/internal/repository"
+	"github.com/whiterage/link-checker-service/pkg/clock"
+	"github.com/whiterage/link-checker-service/pkg/models"
+	"github.com/whiterage/link-checker-service/pkg/pdf"
 )
 
 var (

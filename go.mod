@@ -1,4 +1,4 @@
-module github.com/whiterage/14-11-2025
+module github.com/whiterage/link-checker-service
 
 go 1.25.1
 

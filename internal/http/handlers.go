@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/whiterage/14-11-2025/internal/service"
-	"github.com/whiterage/14-11-2025/pkg/models"
+	"github.com/whiterage/link-checker-service/internal/service"
+	"github.com/whiterage/link-checker-service/pkg/models"
 )
 
 type Handlers struct {

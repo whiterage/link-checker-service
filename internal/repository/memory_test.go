@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/whiterage/14-11-2025/pkg/models"
+	"github.com/whiterage/link-checker-service/pkg/models"
 )
 
 func TestPersistentRepo_ReloadsTasks(t *testing.T) {

@@ -10,10 +10,10 @@ import (
 	"syscall"
 	"time"
 
-	api "github.com/whiterage/14-11-2025/internal/http"
-	"github.com/whiterage/14-11-2025/internal/repository"
-	"github.com/whiterage/14-11-2025/internal/service"
-	"github.com/whiterage/14-11-2025/internal/worker"
+	api "github.com/whiterage/link-checker-service/internal/http"
+	"github.com/whiterage/link-checker-service/internal/repository"
+	"github.com/whiterage/link-checker-service/internal/service"
+	"github.com/whiterage/link-checker-service/internal/worker"
 )
 
 func main() {

@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/whiterage/14-11-2025/pkg/models"
+	"github.com/whiterage/link-checker-service/pkg/models"
 )
 
 func TestBuildLinksMap(t *testing.T) {
